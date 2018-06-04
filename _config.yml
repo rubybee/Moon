@@ -1,6 +1,6 @@
 # Site
 title:              OSS - L9
-bio:                '김성준 류정석 윤여찬 곽현기.'
+bio:                '김성준, 윤여찬, 곽현기, 류정석'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://rubybee.github.io/Moon/
+url:                https://taylantatli.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -38,15 +38,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
+#twitter:            username
+#facebook:           username
 github-url:         18-1-SKKU-OSS/2018-1-OSS-L9
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
