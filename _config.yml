@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              OSS - L9
+bio:                '김성준 류정석 윤여찬 곽현기.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -38,7 +38,7 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-github-url:         https://github.com/18-1-SKKU-OSS/2018-1-OSS-L9
+github-url:         18-1-SKKU-OSS/2018-1-OSS-L9
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
