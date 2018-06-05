@@ -23,9 +23,9 @@ comments: false
 ## 조원별 역할
 
 * 곽현기, 김성준
-    * clone pull request
-    * commit
-    * 기타 github 기반 작업
+    * 오픈소스 fork & pull request
+    * 개선 사항 commit
+    * 기타 github 관련 작업
 
 * 류정석, 윤여찬
-    * 정적 페이지 개선 작업 
+    * 정적 페이지 개선 작업
