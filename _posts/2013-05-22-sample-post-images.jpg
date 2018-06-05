@@ -1,8 +1,12 @@
 ---
-layout: project
-title: Cubrid
-excerpt: "A List of Projects"
-comments: false
+-layout: post
+-title:  "Cubrid"
+-date:   2018-06-05
+-excerpt: \
+-project: true
+-tag:
+-- Cubrid
+-comments: true
 ---
 
 #Cubrid
