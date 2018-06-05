@@ -28,6 +28,4 @@ comments: false
     * 기타 github 기반 작업
 
 * 류정석, 윤여찬
-    * wordpress 기반 정적 페이지 테마 수정
-    * 메인 페이지 컨텐츠 수정
-    * wordpress, html, css 추가 적용 분담
+    * 정적 페이지 개선 작업 
