@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Statc page create"
+title:  "Responsive Website create"
 date:   2018-06-05
 excerpt: "update"
 tag:
