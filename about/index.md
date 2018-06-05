@@ -9,7 +9,7 @@ comments: false
 ## CUBRID
 
 {% capture images %}
-    https://scontent-icn1-1.xx.fbcdn.net/v/t31.0-8/10498713_660427557378502_4512120602540426824_o.jpg_nc_cat=0&oh=213b19def8415f7d06fcf296701454bb&oe=5BB6DD4E
+    
 {% endcapture %}
 
 [CUBRID](http://www.cubrid.com/)는 2008년 11월에 오픈 소스 라이선스(DBMS 엔진: GPL v2, 인터페이스: BSD) 하에 소스코드가 공개된 이후로 인-하우스 개발(In-house Development) 및 오픈 개발(Open Development)을 병행하면서 지속적으로 새로운 버전을 공개하고 있다.
