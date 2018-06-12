@@ -22,10 +22,26 @@ comments: false
 
 ## 조원별 역할
 
-* 곽현기, 김성준
+* 곽현기
+    * 오픈소스 fork & pull request
+    * 개선 사항 commit
+    * 한글 주석 설명 추가
+    * 오류 및 개선사항 issue & review
+    * 기타 github 관련 작업
+    * 반응형 페이지 개선 작업
+    
+    
+* 김성준
     * 오픈소스 fork & pull request
     * 개선 사항 commit
     * 기타 github 관련 작업
+    * 오류 및 개선사항 issue & review
+    * 반응형 페이지 생성 작업
 
-* 류정석, 윤여찬
-    * 정적 페이지 개선 작업
+* 윤여찬
+    * 정적 페이지 생성, 개선 작업
+    * 반응형 페이지 개선 작업
+    * 오류 및 개선사항 issue & review
+
+* 류정석
+    * 정적 페이지 생성 작업
