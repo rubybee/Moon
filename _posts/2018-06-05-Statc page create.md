@@ -11,7 +11,7 @@ comments: true
 ---
 
 Our Work
---------------------------------------------------
+=======================================================
 # 오류 및 개선사항 issue & review
 http://jira.cubrid.org/projects/CBRD/issues/CBRD-22140?filter=allopenissues
 
