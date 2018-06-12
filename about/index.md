@@ -17,7 +17,36 @@ comments: false
 
 * Cubird homepage(kr) : https://www.cubrid.com
 
-## 프로젝트 계획
+## MAJOR REFERENCES
+- CUBRID Official Site: http://www.cubrid.org and http://www.cubrid.com
+- CUBRID Issue Tracker: http://jira.cubrid.org/browse/CBRD
+- CUBRID Manuals: http://cubrid.org/documentation/manuals
+
+## DOWNLOADS and FILE REPOSITORIES
+- http://www.cubrid.org/downloads
+- http://ftp.cubrid.org
+
+## HOW TO BUILD/INSTALL CUBRID
+- CUBRID Installation:
+  http://cubrid.org/downloads/engine
+- CUBRID Source Build Guide
+  Linux: http://cubrid.org/downloads/linux/64-bit/engine/install-source/
+  Windows: http://cubrid.org/downloads/windows/64-bit/engine/install-source/
+- CUBRID Install from package
+  Linux: http://cubrid.org/downloads/linux/64-bit/engine/install-package/
+  Windows: http://cubrid.org/downloads/windows/64-bit/engine/install-package
+
+## GETTING STARTED
+- Follow the tutorials at:
+  http://cubrid.org/documentation/getting-started
+
+## GETTING HELP
+If You encounter any difficulties with getting started, or just have some
+questions, or find bugs, or have some suggestions, we kindly ask you to 
+post your thoughts on our subreddit at https://www.reddit.com/r/CUBRID/.
+
+
+## Project Plan
 
 * 주기적인 코드 리뷰를 통해 CUBRID의 전체적 구조 파악
 * 기능 개선, 부가기능 추가, 오역 및 오탈자 파악 및 수정 요청 등
@@ -32,7 +61,7 @@ comments: false
  *   윤여찬 manshimaro power200012@naver.com
 
 
-## 조원별 역할
+## Role
 
 * 곽현기
     * 오픈소스 fork & pull request
@@ -58,5 +87,5 @@ comments: false
 * 류정석
     * 정적 페이지 생성 작업
     
-## 반응형 페이지 source
+## Reponsive page source
    * https://github.com/TaylanTatli/Moon
