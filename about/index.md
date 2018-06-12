@@ -88,4 +88,7 @@ post your thoughts on our subreddit at https://www.reddit.com/r/CUBRID/.
     * 정적 페이지 생성 작업
     
 ## Reponsive page source
-   * https://github.com/TaylanTatli/Moon
+   * https://github.com/TaylanTatli/
+   
+# stactic page source
+   * http://34.201.172.110/wordpress/
