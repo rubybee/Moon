@@ -15,10 +15,27 @@ comments: false
 
 * CUBRID는 오픈 소스 라이선스를 채택하며, 서버 엔진에는 GPL v2 or later, GUI 도구인 CUBRID Manager 및 응용 인터페이스에는 Berkeley Software Distribution 라이선스가 각각 적용된다. 즉, 응용 인터페이스(API)에 BSD 라이선스를 채택하여 소프트웨어 벤더가 보다 자유롭게 CUBRID 기반의 응용 프로그램을 개발 또는 배포할 수 있도록 하였다.([github](https://github.com/CUBRID/cubrid))
 
+* Cubird homepage(kr) : https://www.cubrid.com
+
 ## 프로젝트 계획
 
 * 주기적인 코드 리뷰를 통해 CUBRID의 전체적 구조 파악
 * 기능 개선, 부가기능 추가, 오역 및 오탈자 파악 및 수정 요청 등
+
+## OUR WORK
+
+CUBRID 코드 리뷰, 전체적인 구조, 세부 기능 연결 관계 파악
+이슈 정리를 통한 버그파악, 그중 개선이 가능한 부분을 찾아서 코드 수정, 커밋
+주석을 포함하여 코드 전체적으로 오탈자 수정
+
+## Member
+
+이름 깃헙닉네임 이메일
+ *   곽현기 gwiseki gwak0320@gmail.com
+ *   김성준 rubybee zxcasd1545@gmail.com
+ *   류정석 ryoo0424 ryoo0424@naver.com
+ *   윤여찬 manshimaro power200012@naver.com
+
 
 ## 조원별 역할
 
@@ -45,3 +62,5 @@ comments: false
 
 * 류정석
     * 정적 페이지 생성 작업
+    
+
