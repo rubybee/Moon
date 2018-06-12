@@ -16,7 +16,7 @@ Our Work
 ## 오류 및 개선사항 issue & review
 http://jira.cubrid.org/projects/CBRD/issues/CBRD-22140?filter=allopenissues
 https://github.com/18-1-SKKU-OSS/2018-1-OSS-L9/issues
-
+https://github.com/18-1-SKKU-OSS/2018-1-OSS-L9/pulse
 
 ## 반응형 페이지, 정적 페이지 생성
 http://34.201.172.110/wordpress/
