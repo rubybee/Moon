@@ -5,10 +5,10 @@ date:   2018-06-05
 excerpt: "Cubrid"
 project: true
 tag:
-- Static page
-- Rspsiv page
-- Issue & review
-- asdf
+- jekyll 
+- moon
+- blog
+- about
 - theme
 comments: true
 ---
