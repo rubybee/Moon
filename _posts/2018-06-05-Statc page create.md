@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Responsive Website create"
+title:  "CUBRID Improvement"
 date:   2018-06-05
 excerpt: "update"
 tag:
@@ -10,6 +10,6 @@ tag:
 comments: true
 ---
 
-# Responsive Website create
-반응형 홈페이지 생성완료, 프로젝트 관련 소개와, 그외에 업데이트 상황을 간단하게 업로드할 예정
+#CUBRID Improvement
+aaaa
 
