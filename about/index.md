@@ -46,7 +46,7 @@ CUBRID 코드 리뷰, 전체적인 구조, 세부 기능 연결 관계 파악
     * 오류 및 개선사항 issue & review
     * 기타 github 관련 작업
     * 반응형 페이지 개선 작업
-    
+    * 주요 코드 내용 통일성 보완
     
 * 김성준
     * 오픈소스 fork & pull request
